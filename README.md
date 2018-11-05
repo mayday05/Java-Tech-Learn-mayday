@@ -1,9 +1,6 @@
 # Java-Tech-Learn-mayday
   Java技术学习Coding
 
-## 编辑器 
-https://stackedit.io/app#
-
 ## 近期学习内容
 
 11月
@@ -11,6 +8,11 @@ https://stackedit.io/app#
  2. Dubbo
  3. ElasticSearch
  4. 学习项目：zheng
+
+发表文章：
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## 优秀博客和博主
         
@@ -61,3 +63,7 @@ Github ReadME编辑
 
  1.  [Markdown语言详解](https://blog.csdn.net/shaukon/article/details/78173911)
  2. [GitHub上README.md编写教程（基本语法）](https://blog.csdn.net/qq_31796651/article/details/80803599)
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMjMyODczNTddfQ==
+-->
